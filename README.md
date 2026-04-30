@@ -1,4 +1,4 @@
-# 📊 Business Sales Decision Dashboard
+#  Business Sales Decision Dashboard
 
 ##  Overview
 This project presents an interactive Power BI dashboard designed to analyze sales and profit performance across regions and products. It also incorporates a rule-based decision system to provide actionable business recommendations.
